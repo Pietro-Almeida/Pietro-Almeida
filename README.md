@@ -21,8 +21,6 @@ Gosto de aprender coisas novas, resolver problemas e criar projetos que me desaf
 - ⚙️ Git e GitHub  
 - 🎨 UI/UX básico  
 
-> *Você pode editar essa parte depois com o que você realmente usa*
-
 ---
 
 ## 📚 Atualmente estudando
