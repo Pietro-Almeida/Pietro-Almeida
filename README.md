@@ -88,7 +88,7 @@ Sou um estudante em constante evolução, apaixonado por tecnologia e focado em 
   <a href="#">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/pietro-silva-427a483ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
